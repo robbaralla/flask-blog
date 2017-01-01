@@ -1,0 +1,1 @@
+a simple blog application where the logged in user can view and add posts
